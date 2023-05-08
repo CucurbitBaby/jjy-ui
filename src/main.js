@@ -10,6 +10,10 @@ import JlButton from '@/components/JlButton'
 Vue.use(JlButton)
 
 
+import JlSelect from '@/components/JlSelect'
+Vue.use(JlSelect)
+
+
 Vue.config.productionTip = false
 
 new Vue({

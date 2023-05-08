@@ -8,4 +8,7 @@ Vue.use(ElementUI);
 import JlButton from "@/components/JlButton";
 Vue.use(JlButton);
 
-export { JlButton };
+import JlSelect from "@/components/JlSelect";
+Vue.use(JlSelect);
+
+export { JlButton, JlSelect };
