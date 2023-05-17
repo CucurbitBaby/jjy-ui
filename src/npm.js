@@ -5,10 +5,10 @@ Vue.use(ElementUI);
 
 // jjy-ui components
 
-import JlButton from "@/components/JlButton";
-Vue.use(JlButton);
+// import JlButton from "@/components/JlButton";
+// Vue.use(JlButton);
 
 import JlSelect from "@/components/JlSelect";
 Vue.use(JlSelect);
 
-export { JlButton, JlSelect };
+export { JlSelect };
